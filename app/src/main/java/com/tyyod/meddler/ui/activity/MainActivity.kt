@@ -1,7 +1,8 @@
-package com.tyyod.meddler
+package com.tyyod.meddler.ui.activity
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.tyyod.meddler.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
